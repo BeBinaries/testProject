@@ -1,5 +1,5 @@
 #inclulde<stdio.h>
 int main(){
-	printf("hello world\n");
+	printf("Build Something Intersting Bro\n");
 	return 0;
 }
